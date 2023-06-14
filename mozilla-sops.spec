@@ -50,5 +50,5 @@ install -Dpm 0755 %{name} %{buildroot}%{_bindir}/%{name}
 
 
 %changelog
-* Wed June 14 2023 Yannik Müller - 3.7.3-1
+* Wed June 14 2023 Yannik Mueller - 3.7.3-1
 - Initial release
