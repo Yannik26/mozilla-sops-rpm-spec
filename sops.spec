@@ -1,5 +1,5 @@
 Name:           sops
-Version:        3.7.3
+Version:        3.9.0
 Release:        1%{?dist}
 Summary:        sops is an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP
 URL:            https://github.com/mozilla/sops
